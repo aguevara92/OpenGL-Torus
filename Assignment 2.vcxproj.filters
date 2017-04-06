@@ -21,6 +21,9 @@
     <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="RgbImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="glut32.dll">
@@ -33,8 +36,14 @@
     </Library>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="glut.h">
+    <ClInclude Include="TextureTorus.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RgbImage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="glut.h">
+      <Filter>Header Files\gl</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

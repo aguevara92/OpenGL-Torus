@@ -1,5 +1,5 @@
 ﻿  Main.cpp
-\\mac\dropbox\university\3rd_year\graphics\assignment 2\assignment 2\main.cpp(99): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
-\\mac\dropbox\university\3rd_year\graphics\assignment 2\assignment 2\main.cpp(100): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+\\mac\dropbox\university\3rd_year\graphics\assignment 2\assignment 2\main.cpp(149): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+\\mac\dropbox\university\3rd_year\graphics\assignment 2\assignment 2\main.cpp(150): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
   Assignment 2.vcxproj -> \\Mac\Dropbox\University\3rd_Year\Graphics\Assignment 2\Assignment 2\Debug\Assignment 2.exe
   Assignment 2.vcxproj -> \\Mac\Dropbox\University\3rd_Year\Graphics\Assignment 2\Assignment 2\Debug\Assignment 2.pdb (Partial PDB)
